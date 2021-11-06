@@ -1,1 +1,1 @@
-# ConvolutionalNeuralNetwork on MNST DATASET
+# ConvolutionalNeuralNetwork on MNIST DATASET
