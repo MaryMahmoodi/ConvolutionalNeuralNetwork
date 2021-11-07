@@ -1,6 +1,7 @@
 import numpy as np
 from scipy import signal
 
+
 def Conv(x, W):
     (wrow, wcol, numFilters) = W.shape
     (xrow, xcol)             = x.shape
